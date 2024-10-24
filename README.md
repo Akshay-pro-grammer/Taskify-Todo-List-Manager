@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Taskify -personal task manager 
+- create your tasks easily
+- add your tasks
+- delete your tasks
+- edit you tasks
+- your tasks will be present even if you close the application
+- you can even hide your completed todos without deleteing them
+- a confirmation message will pop up if your delete message was clicked accidently
