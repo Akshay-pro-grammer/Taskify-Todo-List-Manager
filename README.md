@@ -1,4 +1,4 @@
-#Taskify -personal task manager 
+# Taskify -personal task manager 
 - create your tasks easily
 - add your tasks
 - delete your tasks
